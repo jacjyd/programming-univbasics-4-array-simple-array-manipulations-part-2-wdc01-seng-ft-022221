@@ -11,7 +11,7 @@ def using_uniq (array)
   array.uniq 
 end
 
-def
+def using_flatten (array)
   array.flatten
 end
 
